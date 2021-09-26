@@ -2,6 +2,10 @@
 
 A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API
 
+## Demo
+
+https://tinasay.github.io/speech-text-reader/
+
 ## Project Specifications
 
 - Create responsive UI (CSS Grid) with picture buttons
